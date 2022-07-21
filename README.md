@@ -1,9 +1,8 @@
 <img src="code.gif" style="width:auto;height:150px" />
 
 - 👋 Hi, I’m Daniel Kenan Slinda
-- 👀 I’m interested in Software development
-- 🌱 I’m a self taught software developer
-- 💞️ I’m currently looking for employment
+- 👀 I’m a fullstack Software developer
+- 🌱 I’m mostly a self taught software developer with 4 years of programming experience
 - 📫 you can reach on www.daniel-kenan.com
 
 <!---
