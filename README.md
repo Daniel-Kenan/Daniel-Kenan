@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/ZDTbix65Me1YDNLDF3" />
+<img src="code.gif" />
 - 👋 Hi, I’m Daniel Kenan Slinda
 - 👀 I’m interested in Software development
 - 🌱 I’m a self taught software developer
