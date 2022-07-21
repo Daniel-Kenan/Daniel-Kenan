@@ -9,7 +9,7 @@
 Im a highly enthusiatic individual with great problem solving skills
 --->
 
-<img src="rick dance.gif" style="width:auto;height:300px" align="center" />
+<img src="rick dance.gif" style="width:auto;height:300px;display:block" align="center" />
 
 ```js
 
