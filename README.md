@@ -1,4 +1,4 @@
-<img src="code.gif" style="width:50px;height:auto" />
+<img src="code.gif" style="width:auto;height:150px" />
 - 👋 Hi, I’m Daniel Kenan Slinda
 - 👀 I’m interested in Software development
 - 🌱 I’m a self taught software developer
