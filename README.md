@@ -10,4 +10,4 @@
 Im a highly enthusiatic individual with great problem solving skills
 --->
 
-<img src="rick.gif" style="width:auto;height:300px" />
+<img src="rick dance.gif" style="width:auto;height:300px" />
