@@ -1,4 +1,4 @@
-<img src="code.gif" style="width:auto;height:150px; " align="right" />
+<img src="code.gif" style="width:auto;height:100px; " align="right" />
 
 ## **Hi 👋, I'm Daniel!**
 
