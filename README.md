@@ -1,6 +1,6 @@
 ## **Hi 👋, I'm Daniel!**
 
-<img src="code.gif" style="width:auto;height:100px; " align="right" />
+<img src="code.gif" style="width:auto;height:120px; " align="right" />
 
 
 - 👀 I’m a fullstack Software developer
