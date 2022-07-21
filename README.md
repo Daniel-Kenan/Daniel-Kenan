@@ -1,4 +1,4 @@
-<img src="code.gif" style="width:auto;height:150px; align:right" />
+<img src="code.gif" style="width:auto;height:150px; " align="right" />
 
 - 👋 Hi, I’m Daniel Kenan Slinda
 - 👀 I’m a fullstack Software developer
