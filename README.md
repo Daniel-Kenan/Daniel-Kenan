@@ -3,6 +3,7 @@
 
 - 👀 I’m a fullstack Software developer
 - 🌱 I’m mostly a self taught software developer with 4 years of programming experience
+- I  programme and write articles about tech
 - 📫 you can reach on www.daniel-kenan.com
 
 <!---
