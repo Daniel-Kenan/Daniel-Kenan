@@ -15,7 +15,6 @@ Im a highly enthusiatic individual with great problem solving skills
 
 ```js
 
-/* Hello, Dev */
 const hardworker = !![]
 
 console.log(hardworker) // True 
