@@ -16,6 +16,9 @@ Im a highly enthusiatic individual with great problem solving skills
 ```js
 
 /* Hello, Dev */
+const hardworker = !![]
 
+console.log(hardworker) // True 
+// JsF**k is weird that is why I love easy to read code
 
 ```
