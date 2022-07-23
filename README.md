@@ -2,7 +2,7 @@
 
 - 👀 I’m a fullstack Software developer
 - 🌱 I’m mostly a self taught software developer with 4 years of programming experience
-- :writing_hand: programme and write articles about tech
+- :writing_hand: I blog about the latest technology  on www.medium.com/@sdanielkenan
 - 📫 you can reach on www.daniel-kenan.com
 
 <p align="center"> 
