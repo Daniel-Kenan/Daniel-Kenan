@@ -18,3 +18,5 @@ const hardworker = !![]
 console.log(hardworker) // True 
 
 ```
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-kenan&theme=github_dark)
